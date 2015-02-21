@@ -1,3 +1,7 @@
+This repository has been cloned from
+<https://github.com/bitemyapp/learnhaskell>. I am adding bits and pieces to the
+learning folder as I go, other folders may exist as we travel in time.
+
 # The Guide
 
 This is my recommended path for learning Haskell.
