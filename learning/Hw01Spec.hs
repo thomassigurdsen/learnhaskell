@@ -1,4 +1,4 @@
-module HW01Spec (spec) where
+module Hw01Spec (spec) where
 
 import Spec
 import Hw01
